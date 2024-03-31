@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitsubh7" alt="gitsubh7" /></a> </p>
 
-- 🔭 I’m currently working on [Comprehensive Football Analysis](https://github.com/gitsubh7/FootballBirdsEyeView_GDSC)
+- 🔭 I’m currently working on [Comprehensive Football Analysis](https://github.com/gitsubh7/DL-Project)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
