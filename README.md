@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Subhan</h1>
-<h3 align="center">CSE'26 UG- NIT Patna | Deep Learning Coordinator - GDSC NITP | ML Developer @HackSlashNITP</h3>
+<h3 align="center">CSE'26 UG- NIT Patna | Community Lead @HackSlashNITP | Deep Learning Coordinator - GDSC NITP | ML Developer @HackSlashNITP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsubh7&label=Profile%20views&color=0e75b6&style=flat" alt="gitsubh7" /> </p>
 
