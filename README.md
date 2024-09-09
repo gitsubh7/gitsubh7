@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abduls.ug22.cs@nitp.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BGPwhvQEFgQh73Zr43iSJNYydZrlVQt1/view?usp=sharing]([https://drive.google.com/file/d/1BGPwhvQEFgQh73Zr43iSJNYydZrlVQt1/view?usp=sharing](https://drive.google.com/file/d/1n-rbJm5XXyOC580W-gGa4O600OJiEZSv/view?usp=sharing))
+- Resume: [Link](https://drive.google.com/file/d/1n-rbJm5XXyOC580W-gGa4O600OJiEZSv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
