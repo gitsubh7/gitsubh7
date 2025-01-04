@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitsubh7" alt="gitsubh7" /></a> </p>
 
-- 🔭 I’m currently working on [Comprehensive Football Analysis](https://github.com/gitsubh7/DL-Project)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **abduls.ug22.cs@nitp.ac.in**
 
-- Resume: [Link](https://drive.google.com/file/d/1n-rbJm5XXyOC580W-gGa4O600OJiEZSv/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
