@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Subhan</h1>
-<h3 align="center">CSE'26 UG- NIT Patna | Community Lead @HackSlashNITP | Ex- Deep Learning Coordinator - GDSC NITP | Ex-ML Developer @HackSlashNITP</h3>
+<h3 align="center">AEH Intern @ Accenture | CSE'26 UG- NIT Patna | Community Lead @HackSlashNITP | Ex- Deep Learning Coordinator - GDSC NITP | </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsubh7&label=Profile%20views&color=0e75b6&style=flat" alt="gitsubh7" /> </p>
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitsubh7](https://github.com/gitsubh7)
-
-- 💬 Ask me about **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **abduls.ug22.cs@nitp.ac.in**
 
