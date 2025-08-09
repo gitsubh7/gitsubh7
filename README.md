@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Subhan</h1>
-<h3 align="center">AEH Intern'25 @ Accenture | CSE'26 UG- NIT Patna | Community Lead @HackSlashNITP | Ex- Deep Learning Coordinator - GDSC NITP |</h3>
+<h3 align="center">AEH Intern'25 @ Accenture | Amazon ML Summer School'25 |  CSE'26 UG- NIT Patna | Community Lead @HackSlashNITP | Ex- Deep Learning Coordinator - GDSC NITP |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsubh7&label=Profile%20views&color=0e75b6&style=flat" alt="gitsubh7" /> </p>
 
